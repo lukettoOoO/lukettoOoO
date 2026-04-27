@@ -115,11 +115,7 @@
 
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# Projects:
+# 🧩Projects:
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Nextcloud Staff Timekeeping Plugin** | Developing a Nextcloud plugin to automate faculty timekeeping and administrative workflows. | PHP, Vue.js, Nextcloud, Cloud Computing  | GitLab |
@@ -127,6 +123,14 @@
 | **Home Lab** | Deployed Dockerized services on a Debian server with Nginx reverse proxy and HTTPS. | Debian Server, Docker, Linux, Networking, Nginx| [View Repo](https://github.com/lukettoOoO/homelab) |
 | **BetterTown** | Desktop application for urban issue management featuring interactive map-based input. | Java, Swing, MySQL, Maven | [View Repo](https://github.com/lukettoOoO/BetterTown) |
 | **Nand2Tetris** | Implemented a full hardware-software stack for a 16-bit computer (logic gates to OS). | HDL, Assembly, C, Virtual Machines | [View Repo](https://github.com/lukettoOoO/Nand2tetris) |
-| **Noir (AI Detective Game)** | AI-driven interactive detective game built using structured prompting techniques. | GitHub Copilot, Google AI Studio, Gemini API | [View Repo](https://github.com/lukettoOoO/Noir) |
+| **Noir (AI Detective Game)** | AI-driven interactive detective game built using structured prompting and vibe-coding techniques. | GitHub Copilot, Google AI Studio, Gemini API | [View Repo](https://github.com/lukettoOoO/Noir) |
+| **OS Treasure Hunt** | Educational project focused on mastering Linux file system navigation and terminal systems. | Linux, Shell Scripting, CLI | [View Repo](https://github.com/lukettoOoO/OS-Treasure-Hunt) |
+| **General-Purpose 16-bit Processor** | Implementation of a custom 16-bit CPU architecture and hardware-software stack. | HDL, Assembly, Digital Logic Design | [View Repo](https://github.com/lukettoOoO/General-Purpose-16bit-Processor) |
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
