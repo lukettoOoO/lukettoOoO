@@ -2,7 +2,7 @@
 <h4 align="center">💻 Computer Science and Information Technology student | 👨‍💻 Software Developer | 🐧 Linux & Networking Enthusiast</h4>
 
 # 💫 About Me:
-💻 I'm currently working on extending and building apps for my homelab and building a Nextcloud  plugin<br>🌱 I’m currently learning Go and Windows Server Administration<br>📫 How to reach me mihut.luca@yahoo.com<br>📄 Know about my experiences https://lukettoooo.github.io/cv/
+💻 I’m currently developing applications for my homelab and working on a Nextcloud plugin<br>🌱 I’m currently learning Go and Windows Server Administration<br>📫 How to reach me mihut.luca@yahoo.com<br>📄 Know about my experiences https://lukettoooo.github.io/cv/
 
 ## 🌐 Connect with me:
 <p align="left">
