@@ -116,14 +116,7 @@
 ###
 
 # 📊 GitHub Stats:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukettoooo/lukettoooo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukettoooo/lukettoooo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lukettoooo/lukettoooo/output/pacman-contribution-graph.svg">
-</picture>
-
 ![](https://github-readme-stats.shion.dev/api?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lukettoOoO&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
