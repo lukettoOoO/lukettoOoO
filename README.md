@@ -127,9 +127,6 @@
 | **OS Treasure Hunt** | Educational project focused on mastering Linux file system navigation and terminal systems. | Linux, Shell Scripting, CLI | [View Repo](https://github.com/lukettoOoO/OS-Treasure-Hunt) |
 | **General-Purpose 16-bit Processor** | Implementation of a custom 16-bit CPU architecture and hardware-software stack. | HDL, Assembly, Digital Logic Design | [View Repo](https://github.com/lukettoOoO/General-Purpose-16bit-Processor) |
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lukettoOoO&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
