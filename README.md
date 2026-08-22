@@ -118,7 +118,7 @@
 # 🧩Projects:
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Nextcloud Staff Timekeeping Plugin** | Developing a Nextcloud plugin to automate faculty timekeeping and administrative workflows. | PHP, Vue.js, Nextcloud, Cloud Computing  | GitLab |
+| **Nextcloud Staff Timekeeping Plugin** | Developing a Nextcloud plugin to automate faculty timekeeping and administrative workflows. | PHP, Vue.js, Nextcloud, Cloud Computing  | [View Repo](https://github.com/lukettoOoO/DCTI-Staff-Timekeeping-App?tab=readme-ov-file) |
 | **Multi-threaded TCP Chat System** | Built a concurrent chat server and CLI client with thread-safe message handling. | C, POSIX Threads, Sockets, TCP/IP | [View Repo](https://github.com/lukettoOoO/TCP-client-server-chat-system)  |
 | **Home Lab** | Deployed Dockerized services on a Debian server with Nginx reverse proxy and HTTPS. | Debian Server, Docker, Linux, Networking, Nginx| [View Repo](https://github.com/lukettoOoO/homelab) |
 | **BetterTown** | Desktop application for urban issue management featuring interactive map-based input. | Java, Swing, MySQL, Maven | [View Repo](https://github.com/lukettoOoO/BetterTown) |
