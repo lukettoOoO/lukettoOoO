@@ -2,7 +2,7 @@
 <h4 align="center">💻 Computer Science and Information Technology student | 👨‍💻 Software Developer | 🐧 Linux & Networking Enthusiast</h4>
 
 # 💫 About Me:
-💻 I’m currently developing applications for my homelab and working on a Nextcloud plugin<br>🌱 I’m currently learning Go and Windows Server Administration<br>📫 How to reach me mihut.luca@yahoo.com<br>📄 Know about my experiences https://lukettoooo.github.io/cv/
+💻 I’m currently developing applications for my homelab and working on a Nextcloud plugin<br>🌱 I’m currently learning Go and Windows Server Administration<br>📫 How to reach me mihut.luca@yahoo.com<br>📄 Know about my experiences https://lukettoooo.github.io/cv/CV_Luca_Mihut.pdf?v=20260918
 
 ## 🌐 Connect with me:
 <p align="left">
@@ -118,8 +118,8 @@
 # 🧩Projects:
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Nextcloud Staff Timekeeping Plugin** | Developed a Nextcloud plugin to automate faculty timekeeping and administrative workflows. | PHP, Vue.js, Nextcloud, Cloud Computing  | [View Repo](https://github.com/lukettoOoO/DCTI-Staff-Timekeeping-App?tab=readme-ov-file) |
-| **Multi-threaded TCP Chat System** | Built a concurrent chat server and CLI client with thread-safe message handling. | C, POSIX Threads, Sockets, TCP/IP | [View Repo](https://github.com/lukettoOoO/TCP-client-server-chat-system)  |
+| **Nextcloud Staff Timekeeping Plugin** | Developed a Nextcloud plugin to automate faculty timekeeping and administrative workflows. | PHP, Vue.js, Nextcloud, Cloud Computing  | [View Repo](https://github.com/lukettoOoO/DCTI-Staff-Timekeeping-App) |
+| **Multi-threaded TCP Chat System** | Built a concurrent chat server and CLI client with thread-safe message handling. | C, POSIX Threads, Sockets, TCP/IP | [View Repo](https://github.com/lukettoOoO/TCP-client-server-chat-system) |
 | **Home Lab** | Deployed Dockerized services on a Debian server with Nginx reverse proxy and HTTPS. | Debian Server, Docker, Linux, Networking, Nginx| [View Repo](https://github.com/lukettoOoO/homelab) |
 | **BetterTown** | Desktop application for urban issue management featuring interactive map-based input. | Java, Swing, MySQL, Maven | [View Repo](https://github.com/lukettoOoO/BetterTown) |
 | **Nand2Tetris** | Implemented a full hardware-software stack for a 16-bit computer (logic gates to OS). | HDL, Assembly, C, Virtual Machines | [View Repo](https://github.com/lukettoOoO/Nand2tetris) |
