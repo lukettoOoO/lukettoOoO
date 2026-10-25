@@ -22,6 +22,10 @@ I'm a Computer Science student at the Politehnica University of Timișoara passi
 - **Languages:** Go, C#, C, Python, PHP, TypeScript, Java, SQL
 - **Web & Frameworks:** .NET 8 (ASP.NET Core / Blazor), Entity Framework, Vue.js, Nextcloud API
 
+<p align="center">
+  <img src="tech-stack.png" alt="Tech Stack & Core Competencies" width="100%" />
+</p>
+
 ---
 
 ### 💽 Selected Projects
