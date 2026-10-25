@@ -23,7 +23,7 @@ I'm a Computer Science student at the Politehnica University of Timișoara passi
 - **Web & Frameworks:** .NET 8 (ASP.NET Core / Blazor), Entity Framework, Vue.js, Nextcloud API
 
 <p align="center">
-  <img src="tech-stack.png" alt="Tech Stack & Core Competencies" width="100%" />
+  <img src="banner_stack.png" alt="Tech Stack & Core Competencies" width="100%" />
 </p>
 
 ---
