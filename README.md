@@ -1,3 +1,5 @@
+[![Check out my personal website](banner.png)](https://web.olympus-luca.online)
+
 ### Hi, I'm Luca-Adrian Mihuț (• ◡•)
 
 **Computer Science & IT Student @ UPT** · **Software & Cloud Infrastructure**
